@@ -1,0 +1,7 @@
+*.pyc
+*.o
+*.exe
+*.dll
+*.pyd
+build/
+out/
